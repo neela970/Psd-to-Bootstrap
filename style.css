@@ -1,0 +1,33 @@
+.color{
+    background-color: #87509c;
+}
+.pera{
+    padding-top: 100px;
+    font-size: 35px;
+}
+.header{
+    padding-top: 80px;
+}
+.service{
+    padding: 40px;
+    padding-right: 30px;
+}
+.pro{
+    padding: 50px 60px;
+}
+.tab{
+    padding: 70px 0px 20px 20px;
+}
+input{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    display: block;
+}
+textarea{
+    width: 80%;
+    padding-top: 20px;
+}
+.icon{
+    padding: 15px 0 100px 110px;
+}
